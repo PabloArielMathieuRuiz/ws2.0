@@ -1,0 +1,10 @@
+{
+    "name": "pablo/parte1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Pablo\\Parte1\\": "src/"
+        }
+    },
+    "require": {}
+}
